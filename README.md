@@ -13,4 +13,4 @@ It is a Disney+ Clone application which gives an exact UI/UX experience like tha
 
 ## Demo
 
-https://disneyplus-clone-91fe6.web.app
+https://disney-plus-sooty.vercel.app/home
